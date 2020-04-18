@@ -1,6 +1,6 @@
-local guide = WoWPro:RegisterGuide("Alchemy","Profession","Alchemy", "Spoony", "Neutral")
+local guide = WoWPro:RegisterGuide("BFA Alchemy","Profession","BFA Alchemy", "Spoony", "Neutral")
 WoWPro:GuideIcon(guide,"PRO",171)
-WoWPro:GuideName(guide, "Alchemy")
+WoWPro:GuideName(guide, "BFA Alchemy")
 WoWPro:GuideLevels(guide)
 WoWPro:GuideSteps(guide, function()
 return [[
