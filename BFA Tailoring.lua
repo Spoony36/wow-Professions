@@ -11,7 +11,7 @@ N Recipe Ranks|N|Most high-level Battle for Azeroth Tailoring recipes has 3 rank
 N Approximate Materials Required|N|590 Tidespray Linen,280 Deep Sea Satin,1175 Nylon Thread,215 Gilded Seaweave,45 Expulsom. The Nylon Thread is sold by your trainer or the tailoring supply vendor near your trainer.
 
 L 1 - 60|N|100 x Tidespray Linen Bandage. The recipe will be yellow/green for the last points, so you probably have to make a few more. 
-L 60 - 75|N|15 x Tidespray Linen Robe - 240 x Tidespray Linen, 300 x Nylon Thread. The Nylon Thread is sold by your trainer or the tailoring supply vendor near your trainer.
+L 60 - 75|N|15 x Tidespray Linen Robe. The Nylon Thread is sold by your trainer or the tailoring supply vendor near your trainer.
 L 75 - 150|N|150 x Embroidered Deep Sea Satin...You will use every Embroidered Deep Sea Satin when you craft your epic armors and later when you upgrade them. Or you will use them when you get the Pattern: Embroidered Deep Sea Bag recipe. (Random world drop from mobs at Kul Tiras / Zandalar).The recipe will be yellow/green for the last points, so you probably have to make a few more.
 N Visit your trainer Jada (Horde) / Instructor Alikana (Alliance) at Nazjatar and learn the new recipes. (You have to finish the first few intro quest at Nazjatar before you can see these NPCs.)
 L 150 - 160|N|10 x Rank 1 - Notorious Combatant's Satin Bracers.
