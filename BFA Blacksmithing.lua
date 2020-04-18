@@ -4,9 +4,9 @@ WoWPro:GuideName(guide, "BFA Blacksmithing")
 WoWPro:GuideLevels(guide)
 WoWPro:GuideSteps(guide, function()
 return [[
-
+N Disclaimer|N| We are not saying you have to follow this guide, we have provided it as a base guideline only so any errors/suggestions please post in the discord group as normal. You may have a better way of levelling your profession, if so we welcome suggestions on edits that can be made.
 N Blacksmithing Trainers:|N|You can find Forgemaster Zak'aal in Dazar'alor at the Terrace of Crafters.You can walk up to a guard in Dazar'alor or Boralus then ask where the Blacksmithing trainer is. Asking the guard will place a red marker on your map at the trainer's location.|FACTION|Horde|
-N Blacksmithing Trainers:|N|You can find Grix "Ironfists" Barlow in Boralus at the Tradewinds Market.You can walk up to a guard in Dazar'alor or Boralus then ask where the Blacksmithing trainer is. Asking the guard will place a red marker on your map at the trainer's location.|FACTION|Alliance|
+N Blacksmithing Trainers:|M|73.40,8.40|Z|Boralus|N|You can find Grix "Ironfists" Barlow in Boralus at the Tradewinds Market.You can walk up to a guard in Dazar'alor or Boralus then ask where the Blacksmithing trainer is. Asking the guard will place a red marker on your map at the trainer's location.|FACTION|Alliance|
 N Recipe Ranks|N| Most high-level Battle for Azeroth Blacksmithing recipes has 3 ranks. Higher rank recipes reduce the materials required to create a recipe, and also give skill points much longer.
 N You can buy Durable Flux from the Blacksmithing trainer. I didn't list them in the guide since you can buy a bunch of them from the vendor.
 N 1 - 15|N|Craft 15 x Monel-Hardened Armguards - 150 Monelite Ore. You might need to make a few more.

@@ -4,7 +4,7 @@ WoWPro:GuideName(guide, "BFA Cooking")
 WoWPro:GuideLevels(guide)
 WoWPro:GuideSteps(guide, function()
 return [[
-
+N Disclaimer|N| We are not saying you have to follow this guide, we have provided it as a base guideline only so any errors/suggestions please post in the discord group as normal. You may have a better way of levelling your profession, if so we welcome suggestions on edits that can be made.
 N Cooking Trainers|N| You can find T'sarah the Royal Chef in Dazar'alor. She is located in the kitchen right behind your mission table near the Great Seal in the Dazar'alor temple.You can walk up to a guard in Dazar'alor then ask where the Cooking trainer is. Asking the guard will place a red marker on your map at the trainer's location.|FACTION|Horde|
 N Cooking Trainers|N|"Cap'n" Byron Mehlsack is in Boralus at the Tradewinds Market.You can walk up to a guard in Boralus then ask where the Cooking trainer is. Asking the guard will place a red marker on your map at the trainer's location.|FACTION|Alliance|
 N Recipe ranks|N|Every BfA cooking recipe has 3 ranks. Higher rank recipes allow you to cook more food for the same materials, and higher rank recipes also give skill points much longer. (the exceptions are the new Feast recipes, you always make one, but it will cost fewer materials)

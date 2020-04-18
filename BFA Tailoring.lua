@@ -4,7 +4,7 @@ WoWPro:GuideLevels(guide)
 WoWPro:GuideName(guide, "BFA Tailoring")
 WoWPro:GuideSteps(guide, function()
 return [[
-
+N Disclaimer|N| We are not saying you have to follow this guide, we have provided it as a base guideline only so any errors/suggestions please post in the discord group as normal. You may have a better way of levelling your profession, if so we welcome suggestions on edits that can be made.
 N Tailoring Trainers:|N|You can find Pin'jin the Patient in Dazar'alor at the Terrace of Crafters.You can walk up to a guard in Dazar'alor or Boralus then ask where the Tailoring trainer is. Asking the guard will place a red marker on your map at the trainer's location.
 N Tailoring Trainers:|N|You can find Daniel Brineweaver is in Boralus at the Tradewinds Market.You can walk up to a guard in Dazar'alor or Boralus then ask where the Tailoring trainer is. Asking the guard will place a red marker on your map at the trainer's location.
 N Recipe Ranks|N|Most high-level Battle for Azeroth Tailoring recipes has 3 ranks. Higher rank recipes reduce the materials required to create a recipe, and also give skill points much longer.
