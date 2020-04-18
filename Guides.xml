@@ -8,7 +8,7 @@
 	<Script file="Inscription.lua"/>
 	<Script file="Herbalism.lua"/>
 	<Script file="Jewelcrafting.lua"/>
-	<Script file="Tailoring.lua"/>
+	<Script file="Tailoring.lua"/>	<Script file="BFA Tailoring.lua"/>
 	<Script file="Skinning.lua"/>
 	<Script file="Legion.lua"/>
 </Ui>
