@@ -31,14 +31,12 @@ N Levelling from 115-120|P|Blacksmithing;164;7+120;1|N| If you don't have any Ma
 N Levelling from 120-145|P|Blacksmithing;164;7+145;1|N| Craft 40 x Rank 3 - Stormsteel Dagger\nThe recipe is sold by Ransa Greyfeather and It requires Revered with The Honorbound\nYou will probably have to craft a lot more since the recipe will be green for the last few points.|FACTION|Horde|
 N Levelling from 115-120|P|Blacksmithing;164;7+120;1|N| If you don't have any Mark of Honor, Craft 5 x Rank 1 - Honorable Combatant's Plate Greaves\nThe recipe is sold by Vindicator Jaelaana and it requires Revered with The 7th Legion\nYou will probably have to craft a lot more since the recipe will be green for the last few points.|FACTION|Alliance|
 N Levelling from 120-145|P|Blacksmithing;164;7+145;1|N| Craft 40 x Rank 3 - Stormsteel Dagger\nThe recipe is sold by Vindicator Jaelaana and it requires Revered with The 7th Legion\nYou will probably have to craft a lot more since the recipe will be green for the last few points.|FACTION|Alliance|
-N Levelling from 145-160|P|Blacksmithing;164;7+160;1|N| Visit your trainer Jada at Nazjatar and learn the new recipes\nYou have to finish the first few intro quest at Nazjatar before you can see these NPCs\n|FACTION|Horde|
-N Craft|N|Craft 15 x Rank 1 - Notorious Combatant's Plate Armguards|FACTION|Horde|
-N Levelling from 145-160|P|Blacksmithing;164;7+160;1|N| Visit your trainer Instructor Alikana at Nazjatar and learn the new recipes\nYou have to finish the first few intro quest at Nazjatar before you can see these NPCs\n|FACTION|Alliance|
-N Craft|N|Craft 15 x Rank 1 - Notorious Combatant's Plate Armguards|FACTION|Alliance|
-N Levelling from 160-170|P|Blacksmithing;164;7+170;1|N|You should stop at 165 if you plan to craft the new epic plate armors since you will get 12 skill points in total for crafting the 3 belt and 3 pants\n
+N Visit your trainer Jada at Nazjatar and learn the new recipes\nYou have to finish the first few intro quest at Nazjatar before you can see these NPCs\n|FACTION|Horde|
+N Visit your trainer Instructor Alikana at Nazjatar and learn the new recipes\nYou have to finish the first few intro quest at Nazjatar before you can see these NPCs\n|FACTION|Alliance|
+N Levelling from 145-160|P|Blacksmithing;164;7+160;1|N|Craft 15 x Rank 1 - Notorious Combatant's Plate Armguards\nYou should stop at 165 if you plan to craft the new epic plate armors since you will get 12 skill points in total for crafting the 3 belt and 3 pants\n
 N Action|N|Buy the Rank 2 - Recipe: Notorious Combatant's Plate Armguards recipe for 2 Mark of Honor from Dazzerian at Nazjatar\n|FACTION|Horde|
 N Action|N|Buy the Rank 2 - Recipe: Notorious Combatant's Plate Armguards recipe for 2 Mark of Honor from Crafticus Mindbender at Nazjatar\n|FACTION|Alliance|
-N Action|N|Craft 10 x rank 2 - Notorious Combatant's Plate Armguards
+N Levelling from 160-170|P|Blacksmithing;164;7+170;1|N|Craft 10 x rank 2 - Notorious Combatant's Plate Armguards
 N Action|N|Buy the Rank 3 - Recipe: Notorious Combatant's Plate Armguards recipe for 4 Mark of Honor from the same NPCs as the rank 2\n
 N Levelling from 170-175|P|Blacksmithing;164;7+175;1|N|Craft 5 x Rank 3 - Notorious Combatant's Plate Armguards
 N Congratulations on reaching 175
